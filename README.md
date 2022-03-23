@@ -10,3 +10,6 @@
 ## TEST DRIVEN DEVELPMENTS
 
 Si no haces test ,eres un programador mediocre "Nicolas Shourman"
+
+
+Php, mmmm no lo se rick !
